@@ -1,20 +1,30 @@
-### Hi there 👋
-
-
-
-# 💻 My Systems and AI Projects
 
 ![Header Image](https://example.com/header.png)
+
+# 💻 My Systems and AI Projects
 
 Welcome to My Systems and AI Projects! 🤖
 
 I am a software engineer with a passion for AI and Systems. This is my personal GitHub page where you can find all my personal and professional projects. I am constantly learning and exploring new technologies and this is the place where I document my journey.
 
-## 📝 Project List
+## 🔭 I’m currently working on
 
 - **Project 1**: 🚀 A brief description of the project and its purpose. 
 - **Project 2**: 🤖 A brief description of the project and its purpose. 
-- **Project 3**: 💻 A brief description of the project and its purpose. 
+
+## 🌱 I’m currently learning
+
+- **Topic 1**: 🧠 A brief description of the topic and why I am interested in it.
+- **Topic 2**: 📚 A brief description of the topic and why I am interested in it.
+
+## 👯 I’m looking to collaborate on
+
+I am always open to new collaborations and opportunities to work on interesting projects. If you have an idea or project that aligns with my interests, feel free to reach out to me.
+
+## 🤔 I’m looking for help with
+
+- **Project 1**: 💻 A brief description of the project and the specific areas where I am seeking help.
+- **Project 2**: 🤖 A brief description of the project and the specific areas where I am seeking help.
 
 ## 📚 Learning Journal
 
@@ -34,3 +44,6 @@ You can also connect with me on social media:
 ## 💬 Contact
 
 If you have any questions or just want to chat about AI and Systems, feel free to reach out to me via email at [email@example.com](mailto:email@example.com)
+
+## ⚡ Fun fact
+I am a coffee lover and can't start my day without a cup of coffee.
