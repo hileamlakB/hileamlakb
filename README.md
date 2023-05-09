@@ -11,22 +11,5 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 - 😄 Pronouns: [Your pronouns, e.g. He/Him, She/Her, They/Them]
 - ⚡ Fun fact: [Interesting fact about you]
 
-## 🔧 Technologies & Tools
 
-
-- Code: [Languages you code in, e.g. Python, JavaScript, Java, C++]
-- Framework: [Frameworks you use, e.g. React, Angular, Django, Flask]
-
-
-## 📈 GitHub Stats
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=hileamlakb&show_icons=true&theme=radical)](https://github.com/hileamlakb/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hileamlakb&layout=compact&theme=radical)](https://github.com/hileamlakb/github-readme-stats)
-
-## 🌐 Connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://your-personal-website.com)
 
