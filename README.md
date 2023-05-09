@@ -14,10 +14,8 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 ## 🔧 Technologies & Tools
 
 
-Code: [Languages you code in, e.g. Python, JavaScript, Java, C++]
-Framework: [Frameworks you use, e.g. React, Angular, Django, Flask]
-Database: [Databases you work with, e.g. MySQL, PostgreSQL, MongoDB]
-Tools: [Tools you use, e.g. Git, Docker, Kubernetes, AWS, GCP]
+- Code: [Languages you code in, e.g. Python, JavaScript, Java, C++]
+- Framework: [Frameworks you use, e.g. React, Angular, Django, Flask]
 
 
 ## 📈 GitHub Stats
