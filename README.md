@@ -1,4 +1,4 @@
-```
+
 # Hi there, I'm [Your Name] 👋
 
 ![banner](https://path-to-your-banner-image-if-you-have-one.jpg)
@@ -13,12 +13,12 @@ I'm a [Job Title/Student] at [Company/University] passionate about [Your Interes
 
 ## 🔧 Technologies & Tools
 
-```text
+
 Code: [Languages you code in, e.g. Python, JavaScript, Java, C++]
 Framework: [Frameworks you use, e.g. React, Angular, Django, Flask]
 Database: [Databases you work with, e.g. MySQL, PostgreSQL, MongoDB]
 Tools: [Tools you use, e.g. Git, Docker, Kubernetes, AWS, GCP]
-```
+
 
 ## 📈 GitHub Stats
 
