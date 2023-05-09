@@ -1,9 +1,9 @@
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hileamlak Yityew 👋
 
 ![banner](https://path-to-your-banner-image-if-you-have-one.jpg)
 
-I'm a [Job Title/Student] at [Company/University] passionate about [Your Interests/Technologies]. I love working on [Project Types/Technologies] and am always eager to learn new skills and collaborate on exciting projects.
+I'm a student at Harvard University passionate about System/ML/Software development. I love working on cutting-edge AI-driven, scalable, and efficient software projects and am always eager to learn new skills and collaborate on exciting projects.
 
 - 🌱 I’m currently learning: [Topic or Technology]
 - 💬 Ask me about: [Topics or Technologies you're comfortable discussing]
@@ -31,6 +31,4 @@ Tools: [Tools you use, e.g. Git, Docker, Kubernetes, AWS, GCP]
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website](https://your-personal-website.com)
-```
 
-Replace the placeholders with your specific information and update the technologies, tools, and social media links according to your preferences. Remember to find a suitable banner image and replace the placeholder URL with the actual image URL.
