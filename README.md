@@ -38,19 +38,11 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> x86 Assembly</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/game-controller.png"/> Game</kbd>
     </td>
-    <td>
-      🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
-     A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
-      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/socket.png"/> Socket</kbd>
-    </td>
   </tr>
   <tr>
     <td>
       📡 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
-      A software-defined radio implementation for satellite communication.<br>
+      An experiment with logical clocks fousing on the effect of clock speed on clock drift.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/satellite.png"/> Satellite Communication</kbd>
     </td>
@@ -79,6 +71,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       A Monty language interpreter written in Python.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/interpreter.png"/> Interpreter</kbd>
+    </td>
+    <td>
+      🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
+     A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/socket.png"/> Socket</kbd>
     </td>
     
   </tr>
