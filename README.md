@@ -21,7 +21,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/database.png"/> Database</kbd>
     </td>
     <td>
-      🚪 <a href="https://github.com/hileamlakB/tor_replica">Simple Tor</a><br>
+      🚪 <a href="https://github.com/hileamlakB/tor2">Simple Tor</a><br>
       A Python-based implementation of a simplified Tor-like network, providing anonymous communication and browsing through a series of relay nodes.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/door.png"/> Tor</kbd>
@@ -61,7 +61,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/processor.png"/> Cache</kbd>
     </td>
     <td>
-      🐍 <a href="https://github.com/hileamlakB/monty_interpreter">Monty_interpreter</a><br>
+      🐍 <a href="https://github.com/hileamlakB/monty_interpreter">Monty Interpreter</a><br>
       A Monty language, stack based programming language, interpreter written in Python.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/stack.png"/> Interpreter</kbd>
