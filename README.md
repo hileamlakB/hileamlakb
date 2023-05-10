@@ -10,65 +10,84 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 
 ### System
 
+### Systems
+
 <table>
   <tr>
     <td>
-      🌐 <a href="https://github.com/hileamlakB/tor_replica">Tor_replica</a><br>
-      A Tor network replica, built to understand the internal workings of the original Tor network.<br>
-      <kbd>Python</kbd> <kbd>Networking</kbd> <kbd>Security</kbd>
+      🚪 <a href="https://github.com/hileamlakB/tor_replica">Tor_replica</a><br>
+      A replica of the Tor anonymity network implemented in Python.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/door.png"/> Tor</kbd>
     </td>
     <td>
       💬 <a href="https://github.com/hileamlakB/jmessage">Jmessage</a><br>
-      A lightweight messaging application with encryption and secure communication features.<br>
-      <kbd>Java</kbd> <kbd>Encryption</kbd> <kbd>Networking</kbd>
+      A simple messaging application built using Java.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png"/> Java</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/chat.png"/> Messaging</kbd>
     </td>
     <td>
       🕹️ <a href="https://github.com/hileamlakB/retro-breakout-assembly">retro-breakout-assembly</a><br>
-      A classic breakout game implemented in x86 Assembly language.<br>
-      <kbd>x86 Assembly</kbd> <kbd>Game Development</kbd>
+      A retro Breakout game implemented in x86 Assembly.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> x86 Assembly</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/game-controller.png"/> Game</kbd>
     </td>
     <td>
       🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
-      A high-performance, concurrent, and efficient networking library in C.<br>
-      <kbd>C</kbd> <kbd>Networking</kbd> <kbd>Concurrency</kbd>
+      A C-based library for network connection management.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
     </td>
   </tr>
   <tr>
     <td>
-      📚 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
-      A library for statistical analysis and manipulation of datasets.<br>
-      <kbd>Python</kbd> <kbd>Data Science</kbd> <kbd>Statistics</kbd>
+      📡 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
+      A software-defined radio implementation for satellite communication.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/satellite.png"/> Satellite Communication</kbd>
     </td>
     <td>
       🖥️ <a href="https://github.com/hileamlakB/processor-systemverilog">Processor systemverilog</a><br>
-      A custom processor implementation using SystemVerilog and hardware description language.<br>
-      <kbd>SystemVerilog</kbd> <kbd>Hardware</kbd> <kbd>Processor</kbd>
+      A custom processor design implemented in SystemVerilog.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/systemverilog.png"/> SystemVerilog</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> Processor</kbd>
     </td>
     <td>
-      💾 <a href="https://github.com/hileamlakB/cache-simulator">Cache simulator</a><br>
-      A cache simulator to analyze and understand cache performance and behavior.<br>
-      <kbd>C++</kbd> <kbd>Cache</kbd> <kbd>Simulation</kbd>
+      🎛️ <a href="https://github.com/hileamlakB/cache-simulator">Cache simulator</a><br>
+      A cache simulator for analyzing cache performance.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/processor.png"/> Cache</kbd>
     </td>
     <td>
-      ⚙️ <a href="https://github.com/hileamlakB/x86_64cachedio">x86_64cachedio</a><br>
-      A C++ library for x86-64 platforms to enable memory-mapped I/O with cache.<br>
-      <kbd>C++</kbd> <kbd>x86-64</kbd> <kbd>Memory</kbd>
+      💻 <a href="https://github.com/hileamlakB/x86_64cachedio">x86_64cachedio</a><br>
+      A cached I/O system for x86_64 architectures.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> x86_64</kbd>
     </td>
   </tr>
   <tr>
     <td>
-      📖 <a href="https://github.com/hileamlakB/monty_interpreter">Monty_interpreter</a><br>
-      An interpreter for the Monty language, a scripting language for educational purposes.<br>
-      <kbd>Python</kbd> <kbd>Interpreter</kbd> <kbd
-      <kbd>Monty Language</kbd>
+      🐍 <a href="https://github.com/hileamlakB/monty_interpreter">Monty_interpreter</a><br>
+      A Monty language interpreter written in Python.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/interpreter.png"/> Interpreter</kbd>
     </td>
     <td>
       🐹 <a href="https://github.com/hileamlakB/hamsterdb">HamsterDB</a><br>
-     HamsterDB is a column-store database. It is designed to efficiently store and query large amounts of data. As a column store database, it is optimized for aggregate operations over large rows.<br>
-      <kbd>C</kbd> <kbd>Database</kbd> <kbd>column-store</kbd>
+      HamsterDB is a column-store database. It is designed to efficiently store and query large amounts of data. As a column store database, it is optimized for aggregate operations over large rows<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/database.png"/> Database</kbd>
+    </td>
+    <td>
+      <!-- Add more projects in this format if needed -->
+    </td>
+    <td>
+      <!-- Add more projects in this format if needed -->
     </td>
   </tr>
 </table>
+
+
 
 
 ### Machine Learning
