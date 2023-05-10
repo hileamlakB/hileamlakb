@@ -101,12 +101,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/machine-learning.png"/> Machine Learning</kbd>
     </td>
-    <td>
-      <!-- Add more projects in this format if needed -->
-    </td>
-    <td>
-      <!-- Add more projects in this format if needed -->
-    </td>
+   
   </tr>
 </table>
 
