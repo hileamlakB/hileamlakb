@@ -44,7 +44,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       📡 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
       An experiment with logical clocks fousing on the effect of clock speed on clock drift.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/satellite.png"/> Satellite Communication</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> python</kbd>
     </td>
     <td>
       🖥️ <a href="https://github.com/cs141-s23/lab-5-9a-hileaumar-1">Mips processor</a><br>
@@ -72,7 +72,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/socket.png"/> Socket</kbd>
+      <kbd><img src="https://icons8.com/icon/17703/socket"/> Socket</kbd>
     </td>
   </tr>
 </table>
@@ -86,13 +86,13 @@ I'm a student at Harvard University passionate about System/ML/Software developm
   <tr>
     <td>
       🧠 <a href="https://github.com/hileamlakB/amann">Amann</a><br>
-      A neural network library built from scratch in Python.<br>
+      a convolutional neural network build to identify Amharic letters. Currently it has an accuracy of about 86% on the test data. I will be improving the dataset as well as the algorithm to build better products.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/neural-network.png"/> Neural Network</kbd>
     </td>
     <td>
       🤖 <a href="https://github.com/hileamlakB/ml">ML</a><br>
-      A collection of various machine learning projects and experiments.<br>
+      A collection of my implementation of various machine learning algorithms and experiments.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/machine-learning.png"/> Machine Learning</kbd>
     </td>
@@ -107,14 +107,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
   <tr>
     <td>
       🛤️ <a href="https://github.com/hileamlakB/retrack-protocol">retrack-protocol</a><br>
-      A decentralized protocol for secure and private tracking of physical assets.<br>
+      A decentralized protocol for secure and private sharing that allows retracting in the case of no reciever.<br>
       <kbd style="background-color: #6E5494;"><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
     </td>
     <td>
       🌐 <a href="https://github.com/hileamlakB/web3-swip3">web3-swip3</a><br>
-      A decentralized application for content sharing and discovery.<br>
+      A crypto credit card.<br>
       <kbd style="background-color: #6E5494;"><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/content.png"/> Content Sharing</kbd>
@@ -129,15 +129,15 @@ I'm a student at Harvard University passionate about System/ML/Software developm
   </tr>
   <tr>
     <td>
-      📖 <a href="https://github.com/hileamlakB/strem2012-yearbook">strem2012 yearbook</a><br>
-      A digital yearbook website for the 2012 class of Strem High School.<br>
+      📖 <a href="https://github.com/hileamlakB/strem2012-yearbook">stem2012 yearbook</a><br>
+      A digital yearbook website for the 2012 class of Stem High School.<br>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</kbd>
       <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
    <td>
            ♟️ <a href="https://github.com/hileamlakB/chess-nft">chess-nft</a><br>
-      A platform to tokenize and trade unique digital chess pieces as NFTs.<br>
+      A platform to tokenize and trade unique digital chess games as NFTs.<br>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/nft.png"/> NFT</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/chess.png"/> Chess</kbd>
@@ -151,13 +151,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
   </tr>
   <tr>
-    <td>
-      🎨 <a href="https://github.com/hileamlakB/portfolio-projects">portfolio projects</a><br>
-      A collection of projects and works showcased in a personal portfolio website.<br>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</kbd>
-      <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
-    </td>
+    
     <td>
       🏠 <a href="https://github.com/hileamlakB/airbnb_clone">airbnb_clone</a><br>
       A functional clone of the popular vacation rental platform, Airbnb.<br>
@@ -172,14 +166,15 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
-  </tr>
-  <tr>
-   <td>
+    <td>
       ❌⭕ <a href="https://github.com/hileamlakB/tictactoe">tictactoe</a><br>
       A classic Tic Tac Toe game implemented in Python.<br>
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/tic-tac-toe.png"/> Game</kbd>
     </td>
+  </tr>
+  <tr>
+   
     <td>
       🧮 <a href="https://github.com/hileamlakB/virtual-math-camp">virtual math camp</a><br>
       An online platform for organizing and conducting virtual math camps.<br>
@@ -187,9 +182,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
-    <td>
-      <!-- Add more projects in this format if needed -->
-    </td>
+   
   </tr>
 </table>
 
