@@ -151,10 +151,9 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
   </tr>
   <tr>
-    
     <td>
       🏠 <a href="https://github.com/hileamlakB/airbnb_clone">airbnb_clone</a><br>
-      A functional clone of the popular vacation rental platform, Airbnb.<br>
+      A functional clone of the backend of popular vacation rental platform, Airbnb.<br>
       <kbd style="background-color: #61DBFB;"><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
@@ -174,7 +173,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
   </tr>
   <tr>
-   
     <td>
       🧮 <a href="https://github.com/hileamlakB/virtual-math-camp">virtual math camp</a><br>
       An online platform for organizing and conducting virtual math camps.<br>
