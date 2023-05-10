@@ -64,28 +64,38 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
     <td>
       🐹 <a href="https://github.com/hileamlakB/hamsterdb">HamsterDB</a><br>
-      An efficient, lightweight, and fast embedded key-value database system.<br>
-      <kbd>C</kbd> <kbd>Database</kbd> <kbd>Key-Value</kbd>
+     HamsterDB is a column-store database. It is designed to efficiently store and query large amounts of data. As a column store database, it is optimized for aggregate operations over large rows.<br>
+      <kbd>C</kbd> <kbd>Database</kbd> <kbd>column-store</kbd>
     </td>
   </tr>
 </table>
 
 
 ### Machine Learning
+
 <table>
   <tr>
     <td>
       🧠 <a href="https://github.com/hileamlakB/amann">Amann</a><br>
-      A neural network library focused on simplicity, flexibility, and performance.<br>
-      <kbd>Python</kbd> <kbd>Deep Learning</kbd> <kbd>Neural Networks</kbd>
+      A neural network library built from scratch in Python.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/neural-network.png"/> Neural Network</kbd>
     </td>
     <td>
       🤖 <a href="https://github.com/hileamlakB/ml">ML</a><br>
-      A collection of machine learning algorithms and projects for various use cases.<br>
-      <kbd>Python</kbd> <kbd>Machine Learning</kbd> <kbd>Algorithms</kbd>
+      A collection of various machine learning projects and experiments.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/machine-learning.png"/> Machine Learning</kbd>
+    </td>
+    <td>
+      <!-- Add more projects in this format if needed -->
+    </td>
+    <td>
+      <!-- Add more projects in this format if needed -->
     </td>
   </tr>
 </table>
+
 
 ### Web & Others
 
