@@ -8,8 +8,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 
 ## Recent Projects
 
-### System
-
 ### Systems
 
 <table>
@@ -76,8 +74,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
   </tr>
 </table>
-
-
 
 
 ### Machine Learning
@@ -159,7 +155,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
     <td>
-      ❌⭕ <a href="https://github.com/hileamlakB/tictactoe">Tic tac toe</a><br>
+      ❌⭕ <a href="https://github.com/hileamlakB/scalable-Tic-Tac-Toe-game">Tic tac toe</a><br>
       A classic Tic Tac Toe game implemented in Python.<br>
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/tic-tac-toe.png"/> Game</kbd>
