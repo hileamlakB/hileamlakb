@@ -72,12 +72,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/interpreter.png"/> Interpreter</kbd>
     </td>
-    <td>
-      🐹 <a href="https://github.com/hileamlakB/hamsterdb">HamsterDB</a><br>
-      HamsterDB is a column-store database. It is designed to efficiently store and query large amounts of data. As a column store database, it is optimized for aggregate operations over large rows<br>
-      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/database.png"/> Database</kbd>
-    </td>
+    
     <td>
       <!-- Add more projects in this format if needed -->
     </td>
