@@ -15,6 +15,12 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 <table>
   <tr>
     <td>
+      🐹 <a href="https://github.com/hileamlakB/hamsterdb">HamsterDB</a><br>
+      HamsterDB is a column-store database. It is designed to efficiently store and query large amounts of data. As a column store database, it is optimized for aggregate operations over large rows<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/database.png"/> Database</kbd>
+    </td>
+    <td>
       🚪 <a href="https://github.com/hileamlakB/tor_replica">Tor_replica</a><br>
       A replica of the Tor anonymity network implemented in Python.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
@@ -22,8 +28,10 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
     <td>
       💬 <a href="https://github.com/hileamlakB/jmessage">Jmessage</a><br>
-      A simple messaging application built using Java.<br>
-      <kbd><img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png"/> Java</kbd>
+      This chat application is designed to be resilient against up to N failstop faults. It uses a master-slave architecture to ensure fault tolerance and relies on the gRPC protocol for communication between its components.<br>
+      
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+   
       <kbd><img src="https://img.icons8.com/color/20/000000/chat.png"/> Messaging</kbd>
     </td>
     <td>
@@ -73,12 +81,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/interpreter.png"/> Interpreter</kbd>
     </td>
     
-    <td>
-      <!-- Add more projects in this format if needed -->
-    </td>
-    <td>
-      <!-- Add more projects in this format if needed -->
-    </td>
   </tr>
 </table>
 
