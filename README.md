@@ -30,7 +30,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       💬 <a href="https://github.com/hileamlakB/jmessage">Jmessage</a><br>
       This chat application is designed to be resilient against up to N failstop faults. It uses a master-slave architecture to ensure fault tolerance and relies on the gRPC protocol for communication between its components.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-   
       <kbd><img src="https://img.icons8.com/color/20/000000/chat.png"/> Messaging</kbd>
     </td>
     <td>
@@ -41,9 +40,11 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
     <td>
       🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
-      A C-based library for network connection management.<br>
+     A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/socket.png"/> Socket</kbd>
     </td>
   </tr>
   <tr>
