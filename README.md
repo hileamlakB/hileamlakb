@@ -21,15 +21,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/database.png"/> Database</kbd>
     </td>
     <td>
-      🚪 <a href="https://github.com/hileamlakB/tor_replica">Tor_replica</a><br>
-      A replica of the Tor anonymity network implemented in Python.<br>
+      🚪 <a href="https://github.com/hileamlakB/tor_replica">Simple Tor</a><br>
+      A Python-based implementation of a simplified Tor-like network, providing anonymous communication and browsing through a series of relay nodes.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/door.png"/> Tor</kbd>
     </td>
     <td>
       💬 <a href="https://github.com/hileamlakB/jmessage">Jmessage</a><br>
       This chat application is designed to be resilient against up to N failstop faults. It uses a master-slave architecture to ensure fault tolerance and relies on the gRPC protocol for communication between its components.<br>
-      
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
    
       <kbd><img src="https://img.icons8.com/color/20/000000/chat.png"/> Messaging</kbd>
