@@ -32,14 +32,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/chat.png"/> Messaging</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       🕹️ <a href="https://github.com/hileamlakB/retro-breakout-assembly">retro-breakout-assembly</a><br>
       A retro Breakout game implemented in x86 Assembly.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> x86 Assembly</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/game-controller.png"/> Game</kbd>
     </td>
-  </tr>
-  <tr>
     <td>
       📡 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
       An experiment with logical clocks fousing on the effect of clock speed on clock drift.<br>
@@ -52,6 +52,8 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/systemverilog.png"/> SystemVerilog</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> Processor</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       🎛️ <a href="https://github.com/cs141-s23/lab-6-141comestoanend">Cache simulator</a><br>
       A cache simulator for analyzing cache performance.<br>
@@ -60,12 +62,10 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
     <td>
       🐍 <a href="https://github.com/hileamlakB/monty_interpreter">Monty_interpreter</a><br>
-      A Monty language interpreter written in Python.<br>
+      A Monty language, stack based programming language, interpreter written in Python.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/interpreter.png"/> Interpreter</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/stack.png"/> Interpreter</kbd>
     </td>
-  </tr>
-  <tr>
     <td>
       🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
      A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
@@ -74,7 +74,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/socket.png"/> Socket</kbd>
     </td>
-    
   </tr>
 </table>
 
@@ -127,6 +126,8 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/timeline.png"/> Timeline</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/history.png"/> History</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       📖 <a href="https://github.com/hileamlakB/strem2012-yearbook">strem2012 yearbook</a><br>
       A digital yearbook website for the 2012 class of Strem High School.<br>
@@ -134,8 +135,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
-  </tr>
-  <tr>
    <td>
            ♟️ <a href="https://github.com/hileamlakB/chess-nft">chess-nft</a><br>
       A platform to tokenize and trade unique digital chess pieces as NFTs.<br>
@@ -150,6 +149,8 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/telegram-app.png"/> Telegram Bot</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/playing-card.png"/> Game</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       🎨 <a href="https://github.com/hileamlakB/portfolio-projects">portfolio projects</a><br>
       A collection of projects and works showcased in a personal portfolio website.<br>
@@ -164,8 +165,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
-  </tr>
-  <tr>
     <td>
             🌐 <a href="https://github.com/hileamlakB/alx_website">alx_website</a><br>
       The official website for the ALX educational program.<br>
@@ -173,7 +172,9 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
-    <td>
+  </tr>
+  <tr>
+   <td>
       ❌⭕ <a href="https://github.com/hileamlakB/tictactoe">tictactoe</a><br>
       A classic Tic Tac Toe game implemented in Python.<br>
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
