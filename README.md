@@ -58,17 +58,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/processor.png"/> Cache</kbd>
     </td>
-    
     <td>
       🐍 <a href="https://github.com/hileamlakB/monty_interpreter">Monty_interpreter</a><br>
       A Monty language interpreter written in Python.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/interpreter.png"/> Interpreter</kbd>
     </td>
-   
   </tr>
   <tr>
-    
     <td>
       🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
      A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
