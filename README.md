@@ -152,14 +152,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
   </tr>
   <tr>
     <td>
-      🏠 <a href="https://github.com/hileamlakB/airbnb_clone">Airbnb clon</a><br>
+      🏠 <a href="https://github.com/hileamlakB/airbnb_clone">Airbnb clone</a><br>
       A functional clone of the backend of popular vacation rental platform, Airbnb.<br>
       <kbd style="background-color: #61DBFB;"><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
     <td>
-      ❌⭕ <a href="https://github.com/hileamlakB/tictactoe">tictactoe</a><br>
+      ❌⭕ <a href="https://github.com/hileamlakB/tictactoe">Tic tac toe</a><br>
       A classic Tic Tac Toe game implemented in Python.<br>
       <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/tic-tac-toe.png"/> Game</kbd>
