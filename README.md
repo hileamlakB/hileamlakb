@@ -70,8 +70,8 @@ I'm a student at Harvard University passionate about System/ML/Software developm
      A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/network.png"/> Networking</kbd>
-      <kbd><img src="https://icons8.com/icon/17703/socket"/> Socket</kbd>
+      <kbd>Networking</kbd>
+      <kbd> Socket</kbd>
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       🤖 <a href="https://github.com/hileamlakB/ml">ML</a><br>
       A collection of my implementation of various machine learning algorithms and experiments.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://icons8.com/icon/58586/machine-learning"/> Machine Learning</kbd>
+      <kbd>Machine Learning</kbd>
     </td>
    
   </tr>
