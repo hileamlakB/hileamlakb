@@ -35,7 +35,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     <td>
       🕹️ <a href="https://github.com/hileamlakB/retro-breakout-assembly">retro-breakout-assembly</a><br>
       A retro Breakout game implemented in x86 Assembly.<br>
-      <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> x86 Assembly</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/assembly.png"/> x86 Assembly</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/game-controller.png"/> Game</kbd>
     </td>
     <td>
@@ -90,7 +90,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       🤖 <a href="https://github.com/hileamlakB/ml">ML</a><br>
       A collection of my implementation of various machine learning algorithms and experiments.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://icons8.com/icon/79275/machine-learning"/> Machine Learning</kbd>
+      <kbd><img src="https://icons8.com/icon/58586/machine-learning"/> Machine Learning</kbd>
     </td>
    
   </tr>
