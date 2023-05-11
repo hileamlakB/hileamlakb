@@ -36,7 +36,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       🕹️ <a href="https://github.com/hileamlakB/retro-breakout-assembly">retro-breakout-assembly</a><br>
       A retro Breakout game implemented in x86 Assembly.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/assembly.png"/> x86 Assembly</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/video-game.png"/> Game</kbd>
+      <kbd>Game</kbd>
     </td>
     <td>
       📡 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
