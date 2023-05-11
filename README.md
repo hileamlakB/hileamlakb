@@ -47,8 +47,9 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     <td>
       🖥️ <a href="https://github.com/cs141-s23/lab-5-9a-hileaumar-1">Mips processor</a><br>
       A custom multicycle processor design implemented in SystemVerilog.<br>
-      <kbd><img src="https://img.icons8.com/color/20/000000/systemverilog.png"/> SystemVerilog</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/cpu.png"/> Processor</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/logic.png"/> SystemVerilog</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/processor.png"/> Processor</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/assembly.png"/> assembly</kbd>
     </td>
   </tr>
   <tr>
