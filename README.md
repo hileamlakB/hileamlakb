@@ -104,71 +104,68 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     <td>
       🛤️ <a href="https://github.com/hileamlakB/retrack-protocol">Retrack protocol</a><br>
       A decentralized protocol for secure and private sharing that allows retracting in the case of no reciever.<br>
-      <kbd style="background-color: #6E5494;"><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
     </td>
     <td>
       🌐 <a href="https://github.com/hileamlakB/Swip3">swip3</a><br>
       A crypto credit card.<br>
-      <kbd style="background-color: #6E5494;"><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/content.png"/> Content Sharing</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/content.png"/> Content Sharing</kbd>
     </td>
     <td>
       📜 <a href="https://github.com/hileamlakB/coinage-history">Roman Coinage</a><br>
       An interactive timeline website showcasing the history of coinage.<br>
-      <kbd style="background-color: #61DBFB;"><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/timeline.png"/> Timeline</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/history.png"/> History</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/timeline.png"/> Timeline</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/history.png"/> History</kbd>
     </td>
   </tr>
   <tr>
     <td>
       📖 <a href="https://github.com/hileamlakB/STEM2012YearBook">Stem2012 yearbook</a><br>
       A digital yearbook website for the 2012 class of Stem High School.<br>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</kbd>
-      <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
    <td>
            ♟️ <a href="https://github.com/hileamlakB/chess-nft">chess-nft</a><br>
       A platform to tokenize and trade unique digital chess games as NFTs.<br>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/nft.png"/> NFT</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/chess.png"/> Chess</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/nft.png"/> NFT</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/chess.png"/> Chess</kbd>
     </td>
     <td>
       🎲 <a href="https://github.com/hileamlakB/game_91_tg_bot">Game 91 Telegram bot</a><br>
       A Telegram bot for playing the Game 91, a popular card game.<br>
-      <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/telegram-app.png"/> Telegram Bot</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/playing-card.png"/> Game</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/telegram-app.png"/> Telegram Bot</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/playing-card.png"/> Game</kbd>
     </td>
   </tr>
   <tr>
     <td>
       🏠 <a href="https://github.com/hileamlakB/airbnb_clone">Airbnb clone</a><br>
       A functional clone of the backend of popular vacation rental platform, Airbnb.<br>
-      <kbd style="background-color: #61DBFB;"><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
-      <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
     <td>
       ❌⭕ <a href="https://github.com/hileamlakB/scalable-Tic-Tac-Toe-game">Tic tac toe</a><br>
       A classic Tic Tac Toe game implemented in Python.<br>
-      <kbd style="background-color: #3776AB;"><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd style="background-color: #3C3C3C;"><img src="https://img.icons8.com/color/20/000000/tic-tac-toe.png"/> Game</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/tic-tac-toe.png"/> Game</kbd>
     </td>
     <td>
       🧮 <a href="https://github.com/hileamlakB/virtual-math-camp">virtual math camp</a><br>
       An online platform for organizing and conducting virtual math camps.<br>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</kbd>
-      <kbd style="background-color: #5A9;"><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
-      <kbd style="background-color: #F0DB4F;"><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS</kbd>
+      <kbd ><img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript</kbd>
     </td>
   </tr>
 </table>
-
-
-
