@@ -84,13 +84,13 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       🧠 <a href="https://github.com/hileamlakB/amann">Amann</a><br>
       a convolutional neural network build to identify Amharic letters. Currently it has an accuracy of about 86% on the test data. I will be improving the dataset as well as the algorithm to build better products.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/neural-network.png"/> Neural Network</kbd>
+      <kbd><img src="https://icons8.com/icon/DYuG8jKiYeUD/neural-connections"/> Neural Network</kbd>
     </td>
     <td>
       🤖 <a href="https://github.com/hileamlakB/ml">ML</a><br>
       A collection of my implementation of various machine learning algorithms and experiments.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/machine-learning.png"/> Machine Learning</kbd>
+      <kbd><img src="https://icons8.com/icon/79275/machine-learning"/> Machine Learning</kbd>
     </td>
    
   </tr>
