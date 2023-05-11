@@ -105,15 +105,15 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     <td>
       🛤️ <a href="https://github.com/hileamlakB/retrack-protocol">Retrack protocol</a><br>
       A decentralized protocol for secure and private sharing that allows retracting in the case of no reciever.<br>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
+      <kbd > Web3</kbd>
       <kbd ><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
       <kbd ><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
     </td>
     <td>
       🌐 <a href="https://github.com/hileamlakB/Swip3">swip3</a><br>
       A crypto credit card.<br>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/web3.png"/> Web3</kbd>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
+      <kbd > Web3</kbd>
+      <kbd >Decentralized</kbd>
       <kbd ><img src="https://img.icons8.com/color/20/000000/content.png"/> Content Sharing</kbd>
     </td>
     <td>
@@ -144,7 +144,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       A Telegram bot for playing the Game 91, a popular card game.<br>
       <kbd ><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd ><img src="https://img.icons8.com/color/20/000000/telegram-app.png"/> Telegram Bot</kbd>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/playing-card.png"/> Game</kbd>
+      <kbd > Game</kbd>
     </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       ❌⭕ <a href="https://github.com/hileamlakB/scalable-Tic-Tac-Toe-game">Tic tac toe</a><br>
       A classic Tic Tac Toe game implemented in Python.<br>
       <kbd ><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/tic-tac-toe.png"/> Game</kbd>
+      <kbd > Game</kbd>
     </td>
     <td>
       🧮 <a href="https://github.com/hileamlakB/virtual-math-camp">virtual math camp</a><br>
