@@ -107,7 +107,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       A decentralized protocol for secure and private sharing that allows retracting in the case of no reciever.<br>
       <kbd > Web3</kbd>
       <kbd ><img src="https://img.icons8.com/color/20/000000/blockchain-technology.png"/> Blockchain</kbd>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/decentralize.png"/> Decentralized</kbd>
+      <kbd > Decentralized</kbd>
     </td>
     <td>
       🌐 <a href="https://github.com/hileamlakB/Swip3">swip3</a><br>
@@ -121,7 +121,7 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       An interactive timeline website showcasing the history of coinage.<br>
       <kbd ><img src="https://img.icons8.com/color/20/000000/react-native.png"/> React</kbd>
       <kbd ><img src="https://img.icons8.com/color/20/000000/timeline.png"/> Timeline</kbd>
-      <kbd ><img src="https://img.icons8.com/color/20/000000/history.png"/> History</kbd>
+      <kbd > History</kbd>
     </td>
   </tr>
   <tr>
