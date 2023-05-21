@@ -2,7 +2,7 @@
 
 I'm a student at Harvard University passionate about System/ML/Software development. I love working on cutting-edge AI-driven, scalable, and efficient software projects and am always eager to learn new skills and collaborate on exciting projects.
 
-- 🌱 I’m currently learning: Advanced Deep Learning Techniques
+- 🌱 I’m currently: Working on an exciting research, GPU kernel Scheduler for pytorch
 - 📫 How to reach me: ehmyitayew@college.harvard.edu, [LinkedIn](https://www.linkedin.com/in/hileamlak-mulugeta-yitayew-a8b43317a/)
 - ⚡ Fun fact: I am currently building a computer from a transistor.
 
@@ -170,3 +170,8 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
   </tr>
 </table>
+
+## Research
+
+## Pytorch Scheduler
+
