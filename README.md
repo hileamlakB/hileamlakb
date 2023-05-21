@@ -173,5 +173,6 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 
 ## Research
 
-## Pytorch Scheduler
+## Pytorch Scheduler: In progress
+https://github.com/hileamlakB/Pytorch-scheduler/
 
