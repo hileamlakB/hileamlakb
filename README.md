@@ -1,4 +1,4 @@
-# Hey, I'm Hileamlak Yityew 👋
+# Hey, I'm Hileamlak Yitayew 👋
 
 I'm a student at Harvard University passionate about System/ML/Software development. I love working on cutting-edge AI-driven, scalable, and efficient software projects and am always eager to learn new skills and collaborate on exciting projects.
 
