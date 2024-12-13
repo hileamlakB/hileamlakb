@@ -4,7 +4,7 @@ I'm a Computer Science and Electrical Engineering student at Harvard passionate 
 
 - 🌱 I’m currently: Working on an exciting newtworking system project, FloodClone
 - 📫 How to reach me: ehmyitayew@college.harvard.edu, [LinkedIn](https://www.linkedin.com/in/hileamlak-mulugeta-yitayew-a8b43317a/)
-- ⚡ Fun fact: I am currently building a computer from a transistor [].
+- ⚡ Fun fact: I am currently building a computer from a transistor [ON HOLD].
 
 ## Recent Projects
 
@@ -14,7 +14,7 @@ I'm a Computer Science and Electrical Engineering student at Harvard passionate 
   <tr>
     <td>
       🌊 <a href="https://github.com/hileamlakB/floodclone">FloodClone</a><br>
-      FloodClone is an adaptive peer-to-peer content cloning system aimed at minimizing tail delivery time through maximum bandwidth utilization, redistribution prioritization, and zero redundancy. Built with C++ and Python for performance and flexibility.<br>
+      FloodClone is an adaptive peer-to-peer content cloning system aimed at minimizing tail delivery time through maximum bandwidth utilization, redistribution prioritization, and zero redundancy. Agnostic of the underlying network topologs aims to find the best way to distribute a file to all destinations utilizign all available bandwidth. <br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C++</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd> Networking</kbd>
