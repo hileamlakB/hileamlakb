@@ -1,10 +1,10 @@
 # Hey, I'm Hileamlak Yitayew 👋
 
-I'm a student at Harvard University passionate about System/ML/Software development. I love working on cutting-edge AI-driven, scalable, and efficient software projects and am always eager to learn new skills and collaborate on exciting projects.
+I'm a Computer Science and Electrical Engineering student at Harvard passionate about System/ML/Software development. I love working on intersting, scalable, and efficient system softwares for differnt applications.  
 
-- 🌱 I’m currently: Working on an exciting research, GPU kernel Scheduler for pytorch
+- 🌱 I’m currently: Working on an exciting newtworking system project, FloodClone
 - 📫 How to reach me: ehmyitayew@college.harvard.edu, [LinkedIn](https://www.linkedin.com/in/hileamlak-mulugeta-yitayew-a8b43317a/)
-- ⚡ Fun fact: I am currently building a computer from a transistor.
+- ⚡ Fun fact: I am currently building a computer from a transistor [].
 
 ## Recent Projects
 
@@ -12,6 +12,13 @@ I'm a student at Harvard University passionate about System/ML/Software developm
 
 <table>
   <tr>
+    <td>
+      🌊 <a href="https://github.com/hileamlakB/floodclone">FloodClone</a><br>
+      FloodClone is an adaptive peer-to-peer content cloning system aimed at minimizing tail delivery time through maximum bandwidth utilization, redistribution prioritization, and zero redundancy. Built with C++ and Python for performance and flexibility.<br>
+      <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C++</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
+      <kbd> Networking</kbd>
+    </td>
     <td>
       🐹 <a href="https://github.com/hileamlakB/hamsterdb">HamsterDB</a><br>
       HamsterDB is a column-store database. It is designed to efficiently store and query large amounts of data. As a column store database, it is optimized for aggregate operations over large rows<br>
@@ -24,14 +31,14 @@ I'm a student at Harvard University passionate about System/ML/Software developm
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/door.png"/> Tor</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       💬 <a href="https://github.com/hileamlakB/jmessage">Jmessage</a><br>
       This chat application is designed to be resilient against up to N failstop faults. It uses a master-slave architecture to ensure fault tolerance and relies on the gRPC protocol for communication between its components.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/chat.png"/> Messaging</kbd>
     </td>
-  </tr>
-  <tr>
     <td>
       🕹️ <a href="https://github.com/hileamlakB/retro-breakout-assembly">retro-breakout-assembly</a><br>
       A retro Breakout game implemented in x86 Assembly.<br>
@@ -40,19 +47,19 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
     <td>
       📡 <a href="https://github.com/hileamlakB/smad">SMAD</a><br>
-      An experiment with logical clocks fousing on the effect of clock speed on clock drift.<br>
+      An experiment with logical clocks focusing on the effect of clock speed on clock drift.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> python</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       🖥️ <a href="https://github.com/cs141-s23/lab-5-9a-hileaumar-1">Mips processor</a><br>
       A custom multicycle processor design implemented in SystemVerilog.<br>
       <kbd> SystemVerilog</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/processor.png"/> Processor</kbd>
-      <kbd><img src="https://img.icons8.com/color/20/000000/assembly.png"/> assembly</kbd>
+      <kbd><img src="https://img.icons8.com/color/20/000000/assembly.png"/> Assembly</kbd>
     </td>
-  </tr>
-  <tr>
     <td>
       🎛️ <a href="https://github.com/cs141-s23/lab-6-141comestoanend">Cache simulator</a><br>
       A cache simulator for analyzing cache performance.<br>
@@ -61,17 +68,19 @@ I'm a student at Harvard University passionate about System/ML/Software developm
     </td>
     <td>
       🐍 <a href="https://github.com/hileamlakB/monty_interpreter">Monty Interpreter</a><br>
-      A Monty language, stack based programming language, interpreter written in Python.<br>
+      A Monty language, stack-based programming language, interpreter written in Python.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/stack.png"/> Interpreter</kbd>
     </td>
+  </tr>
+  <tr>
     <td>
       🔗 <a href="https://github.com/hileamlakB/cconnect">CConnect</a><br>
-     A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e Using a custom wire protocol in C Design the same system, but use Python gRPC.<br>
+     A simple example of a distributed chat system. Here we explore two different alternatives of building such a system, i.e., using a custom wire protocol in C and designing the same system with Python gRPC.<br>
       <kbd><img src="https://img.icons8.com/color/20/000000/c-programming.png"/> C</kbd>
       <kbd><img src="https://img.icons8.com/color/20/000000/python.png"/> Python</kbd>
       <kbd>Networking</kbd>
-      <kbd> Socket</kbd>
+      <kbd>Socket</kbd>
     </td>
   </tr>
 </table>
