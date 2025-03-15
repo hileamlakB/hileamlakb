@@ -1,6 +1,6 @@
 # Hey, I'm Hileamlak Yitayew 👋
 
-I'm a Computer Science and Electrical Engineering student at Harvard passionate about System/ML/Software development. I love working on intersting, scalable, and efficient system softwares for differnt applications.  
+I'm a Computer Science and Electrical Engineering student at Harvard passionate about System/ML/Software development. I love working on interesting, scalable, and efficient system softwares for differnt applications.  
 
 - 🌱 I’m currently: Working on an exciting newtworking system project, FloodClone
 - 📫 How to reach me: ehmyitayew@college.harvard.edu, [LinkedIn](https://www.linkedin.com/in/hileamlak-mulugeta-yitayew-a8b43317a/)
